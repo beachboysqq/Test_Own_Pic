@@ -1,9 +1,9 @@
 # Test_Own_Pic
 #train and test your own picture
 
-1:clone the code in your Caffe root director
+1:clone the code in your Caffe root dir
 
-2:copy the date in your caffe/data
+2:unzip the date in your caffe/data
 
 3:meke dir myfile in your caffe root dir
 
